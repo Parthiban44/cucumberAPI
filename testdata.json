@@ -1,0 +1,105 @@
+{
+  "createUser":
+  {
+    "name":"Parthiban",
+    "email":"parthibanv123@gmail.com",
+    "gender":"male",
+    "status":"active"
+  },
+  "putUser":
+  {
+    "name":"Gokul",
+    "email":"gokul1659190527067@gmail.com",
+    "gender":"male",
+    "status":"active"
+  },
+  "createUser1":
+  {
+    "gender":"male",
+    "status":"active"
+  },
+  "createUser2":
+  {
+    "name":"Janani",
+    "status":"active"
+  },
+  "createUser3":
+  {
+    "name":"Gokul",
+    "gender":"male"
+  },
+  "createUser4":
+  {
+    "name":"Arulmani",
+    "gender":"male",
+    "status":"active"
+  },
+
+
+  "createPosts":
+  {
+    "title": "parthibanv.",
+    "body": "Cubicularis aetas cernuus. Summopere est demum. Vero candidus maxime. Aedificium celer solum. Voluptatem eius conculco. Beneficium abscido decimus. At acsi colligo. Uter velit ultra. Vero nihil tumultus. Hic accommodo sodalitas. Ver stabilis creator. Casso ascit defetiscor. Vulgivagus sonitus caelum. Adversus accusantium pecto. Curis contego vulgus. Conitor armarium ultio. Absum adinventitias texo. Administratio denego appello. Est custodia cunctatio."
+  },
+  "createPosts1":
+  {
+    "body": "Cubicularis aetas cernuus. Summopere est demum. Vero candidus maxime. Aedificium celer solum. Voluptatem eius conculco. Beneficium abscido decimus. At acsi colligo. Uter velit ultra. Vero nihil tumultus. Hic accommodo sodalitas. Ver stabilis creator. Casso ascit defetiscor. Vulgivagus sonitus caelum. Adversus accusantium pecto. Curis contego vulgus. Conitor armarium ultio. Absum adinventitias texo. Administratio denego appello. Est custodia cunctatio."
+  },
+  "createPosts2": {
+    "title": "javatesting."
+  },
+  "putPosts":
+  {
+    "title": "parthibanv.",
+    "body": "Voluptatem eius conculco. Beneficium abscido decimus. Absum adinventitias texo. Administratio denego appello. Est custodia cunctatio."
+  },
+
+  "createComment":
+  {
+    "name": "Parthiban v",
+    "email": "parthibanv123@gmail.com",
+    "body": "Facere incidunt reprehenderit."
+  },
+  "createComment1":
+  {
+    "email": "parthibanv@gmail.com",
+    "body": "Facere incidunt reprehenderit."
+  },
+  "createComment2":
+  {
+    "name": "Parthiban",
+    "email": "aks1659267388392@gmail.com"
+  },
+  "putComment":
+  {
+    "name": "janani",
+    "email": "janani1659267388392@gmail.com",
+    "body": "Facere incidunt reprehenderit ajayvijaysnehatinkupinky."
+  },
+
+
+
+  "createTodo":
+  {
+    "title": "speciosus earum sodalitas ea adduco tabernus vester.",
+    "due_on": "2022-08-23T00:00:00.000+05:30",
+    "status": "completed"
+  },
+  "createTodo1":
+  {
+    "title": "speciosus earum sodalitas ea adduco tabernus vester.",
+    "due_on": "2022-08-23T00:00:00.000+05:30"
+  },
+  "createTodo2":
+  {
+    "due_on": "2022-08-23T00:00:00.000+05:30",
+    "status": "completed"
+  },
+  "putTodo":
+  {
+    "title": "adduco tabernus vester.",
+    "due_on": "2020-08-30T00:00:00.000+05:30",
+    "status": "completed"
+  }
+
+}
